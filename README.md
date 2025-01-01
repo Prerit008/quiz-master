@@ -2,6 +2,8 @@
 
 An interactive quiz app built with React. This app allows users to take a quiz, view questions, and submit their answers for scoring.
 
+![Preview](https://github.com/Prerit008/quiz-master/blob/main/QuizMaster.png?raw=true)
+
 ## Prerequisites
 
 Make sure you have the following installed:
