@@ -28,7 +28,7 @@ Clone the project to your local machine:
 
 ```bash
 git clone https://github.com/Prerit008/quiz-master.git
-cd quiz-app
+cd quiz-master
 ```
 
 ### 2. Install Dependencies
